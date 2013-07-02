@@ -9,7 +9,7 @@
  *                  Photoshop, go to File > Scripts > Browse... and select
  *                  this file.
  *
- * @author          Kevin Sweeney <kevinsweeney@gmail.com>
+ * @author          Kevin Sweeney
  * @version         1.0
  */
 
